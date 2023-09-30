@@ -5,6 +5,7 @@ Menyelesaikan Modul 3
 Pembahasan pada praktikum pertemuan kedua meliputi:
 
 1.Mengenal cara menggunakan Activity
+
 2.Mengimplementasikan Intent dengan menggunakan Explicit Intent
 
 3.Melewatkan variabel antar Activity
