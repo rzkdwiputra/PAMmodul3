@@ -1,4 +1,4 @@
-<img width="360" alt="image" src="https://github.com/rzkdwiputra/PAMmodul3/assets/95334157/6fdd6851-da70-47c3-adee-e0b7233d528f"># PAMmodul3
+# PAMmodul3
 Rizky Dwi Putra
 1217050127
 Menyelesaikan Modul 3 
